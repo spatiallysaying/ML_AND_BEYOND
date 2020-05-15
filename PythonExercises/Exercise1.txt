@@ -1,0 +1,15 @@
+Solve All Exercises at https://www.w3resource.com/python-exercises/python-basic-exercises.php
+
+Do not skip these-Others are optional
+====================================
+Functions
+Sets
+Lists
+Tuples
+Dictionaries
+for loop
+if then else
+try/catch
+CSV/File read/write without using Pandas
+Lambda functions
+String operations

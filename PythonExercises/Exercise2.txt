@@ -1,0 +1,10 @@
+Solve these without using external libraries like Numpy or Pandas
+=================================================================
+1. Write a program to read and print iris.csv without using Pandas
+2. Write function to find the mean,median and mode of a set of random numbers
+3. Write function to find the standard deviation ,variance and range of a set of random numbers
+4. Solve above three using 'import math'. Find the time difference with your implementation
+5. Given a set of random numbers between 1 and 40, Normalize all of them such that they lie between 0 and 1
+6. Write a function to print even,odd and prime numbers
+7. Given a range of numbers between A&B (eg:- 25&2000) . Convert them to a range between C&D (eg:- 0&255)
+8. Write a function to print Numbers 1 to 6 . Pick a number randomly from this. Find the probability of this number.

@@ -1,0 +1,16 @@
+Solve these Numpy exercises
+https://www.w3resource.com/python-exercises/numpy/index.php
+
+
+Solve these Pandas exercises
+https://www.w3resource.com/python-exercises/pandas/index.php
+
+
+Use matplotlib to solve the below . You may want to use data of your choice,preferably reading it from CSV.
+Experiment with Colors,line styles,x-t labels, titles, ticks on/off, legend, fonts etc
+
+1. Scatter Plot
+2. Histogram
+3. Line Plot
+4. Pie Chart
+
